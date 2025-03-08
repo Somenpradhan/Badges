@@ -12,3 +12,7 @@ myArray.push(4);
 // Log the updated array
 console.log(myArray);
 
+let name = "John";
+console.log("Hello, " + name);
+
+
