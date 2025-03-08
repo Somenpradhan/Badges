@@ -1,3 +1,3 @@
-//This is the first commit.
-concole.log("Hello") 
-concole.log("Hello")// 2nd time
+// This is first commit.
+concole.log("Hello")
+concole.log("Hello") // 2nd time
